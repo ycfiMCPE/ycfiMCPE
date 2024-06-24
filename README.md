@@ -9,17 +9,10 @@
   </a>
   <br /><br />
     <a href="https://skillicons.dev">
-    <img height=30 src="https://skillicons.dev/icons?i=js,ts,nodejs,java,kotlin,python,c,cpp,html,css,tailwind,php" />
+    <img height=30 src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,php" />
     <br />
-    <img height=30 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" />
+    <img height=30 src="https://skillicons.dev/icons?i=,git,github,vscode" />
 
 ## About Me
 
-Lots of cool information that you will totally read 😁😎, This is my new account 🤓
-
-## Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mvaqq&theme=prussian" alt="GitHub Streak" /></a>
-
- ![Commit Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-
-Thanks for visiting my profile!
+Manager of @VeloNet organisation & server - join today at https://discord.gg/velomc
