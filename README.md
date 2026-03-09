@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lotusban.webp" alt="Lotus RBW Banner" width="900">
+  <img src="lotusbane.webp" alt="Lotus RBW Banner" width="900">
 </p>
 
 <h1 align="center">Lotus RBW</h1>
