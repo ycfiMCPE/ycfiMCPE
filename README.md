@@ -1,40 +1,48 @@
-<div align="center">
-  <h3>ycfi's github profile</h3>
-  <img height=30 src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+<p align="center">
+  <img src="lotusban.webp" alt="Lotus RBW Banner" width="900">
+</p>
 
-<div align="center">
-  <h3>discord for enquiries</h3>
-  <a href="https://discord.com/users/592426234194165772">
-    <img src="https://lanyard.cnrad.dev/api/592426234194165772?showDisplayName=true&idleMessage=Busy,'%20No%20DMS%20please.%20Thanks!">
+<h1 align="center">Lotus RBW</h1>
+
+<p align="center">
+Competitive Ranked Bedwars on <b>The Hive</b>
+<br>
+Focused on keeping the scene competitive while making sure <b>newgens are welcome</b>.
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/hivebw">
+    <img src="https://img.shields.io/badge/Discord-Lotus%20RBW-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-</div>
+</p>
 
-<div align="center">
-  <h3>learning programs</h3>
-  <img height=30 src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
+---
 
-<div align="center">
-  <h3>info</h3>
-  <p>Manager @ VeloNet - Open tickets in <a href="https://discord.gg/velomc">https://discord.gg/velomc</a> for any enquiries.</p>
+## About
 
-  <h3>links</h3>
-  <p>discord: <a href="https://discord.com/users/592426234194165772">ycfi</a></p>
-  <p>manager: <a href="https://discord.gg/velomc">velo</a></p>
-  <p>socials @ velo:</p>
-  <ul>
-    <li>youtube: <a href="https://youtube.com/@VeloNetwork1">VeloNetwork1</a></li>
-    <li>github org: <a href="https://github.com/VeloNet">VeloNet</a></li>
-    <li>twitter: <a href="https://x.com/Velo_Network1">Velo_Network1</a></li>
-  </ul>
-  <img height=30 src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img height=30 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</div>
+I'm the owner of **Lotus RBW**, a competitive Ranked Bedwars community built around improving the scene and giving newer players a place to get involved.
+
+A lot of competitive communities end up becoming closed circles over time.  
+Lotus is focused on keeping things **competitive while still welcoming new players into the scene**.
+
+## Goals
+
+- Keep Ranked Bedwars competitive
+- Make it easier for **newgens to get involved**
+- Maintain fair systems and moderation
+- Build a long-term competitive community
+
+## Community
+
+If you're interested in Ranked Bedwars or competitive Hive gameplay, feel free to join.
+
+**Discord:**  
+https://discord.gg/hivebw
+
+---
+
+<p align="center">
+Lotus RBW 🌸
+<br>
+Competitive. Fair. Open to new players.
+</p>
